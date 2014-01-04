@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            Sabotage Race Exploit Fix
+// @name            Sabotage Offrace Weapons
 // @namespace       http://www.kingsofchaos.com
 // @description     Adds all possible weapons
 // @version         1.1
