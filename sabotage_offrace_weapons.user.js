@@ -4,8 +4,8 @@
 // @description     Adds all possible weapons
 // @version         1.1
 // @include         http://*kingsofchaos.com/attack.php*
-// @require         //cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js
-// @require         //cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js
+// @require         http://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js
+// @require         http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js
 // ==/UserScript==
 
 var raceSpecific = {
